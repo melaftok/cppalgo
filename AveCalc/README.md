@@ -2,7 +2,7 @@ This C++ code creates a program to __calculate the average__ of user input. The 
 
 ## Code Explanation:
 
-1. `float a, b = 0, c = 0;`
+1. `float a, b = 0, c = 0;`  
   Declaration of variables a, b and c. b is used to count the number of data entered, and c is used for the sum of the data entered.
 
 2. `while (a != 0)`  
