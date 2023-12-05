@@ -14,16 +14,23 @@ This C++ code creates a program to __calculate the average__ of user input. The 
 4. `cout << "Data " << b << "= ";`  
   Displays a prompt for data entry.
 
-cin >> a;: Requests input from the user and stores the entered value in the variable a.
+5. `cin >> a;`  
+  Requests input from the user and stores the entered value in the variable a.
 
-c = c + a;: Adds the entered value to the sum of the data.
+6. `c = c + a;`  
+  Adds the entered value to the sum of the data.
 
-float average = c / (b - 1);: Calculates the average of the data, excluding the entered 0 from the calculation.
+7. `float average = c / (b - 1);`  
+  Calculates the average of the data, excluding the entered 0 from the calculation.
 
-cout << " \n";: Adds a newline for more readable output.
+8. `cout << " \n";`  
+  Adds a newline for more readable output.
 
-cout << "Average= " << average << endl;: Displays the average value of the data.
+7. `cout << "Average= " << average << endl;`  
+  Displays the average value of the data.
 
-system("pause");: Waits for a key to be pressed before closing the console window.
+8. `system("pause");`  
+  Waits for a key to be pressed before closing the console window.
 
-return 0;: Returns 0, indicating successful completion of the program.
+9. `return 0;`  
+  Returns 0, indicating successful completion of the program.
