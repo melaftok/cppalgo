@@ -1,1 +1,1 @@
-This C++ code creates a program to calculate the average of user input. The program continues to prompt the user for numbers until 0 is entered. The program then calculates the average of all numbers entered and displays the result.
+This C++ code creates a program to __calculate the average__ of user input. The program continues to prompt the user for numbers until 0 is entered. The program then calculates the average of all numbers entered and displays the result.
